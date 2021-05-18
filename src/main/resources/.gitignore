@@ -1,0 +1,9 @@
+#this will not upload my application.yml file to github
+
+#1file
+/application.yml
+application.yml
+
+#2 file
+/application.properties
+application.properties
